@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5774024599061157846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1435097255631188482, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: projectile
+      value: 
+      objectReference: {fileID: 6420604917812512213, guid: 6960c10649a04d843adcc917d528e03f,
+        type: 3}
+    - target: {fileID: 1435097255631188482, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: launchForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435097255631188482, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: shotCooldown.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435097255631188482, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: detectionRadius
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 1435097255631188482, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: multipleProjectile
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816884112813631450, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_Name
+      value: Catapult(Explosive) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -239.23724
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -72.699684
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.194275
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127948469791395058, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750604350399339097, guid: 89b75baab04b9f541b23919ab1a48544,
+        type: 3}
+      propertyPath: moneyWorth
+      value: 150
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89b75baab04b9f541b23919ab1a48544, type: 3}
